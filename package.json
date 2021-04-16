@@ -10,6 +10,8 @@
     "comma-separated-values": "^3.6.4",
     "commander": "^2.12.2",
     "debug": "^3.1.0",
+    "dotenv": "^8.2.0",
+    "mongodb": "^3.6.6",
     "puppeteer": "^0.13.0"
   },
   "devDependencies": {
