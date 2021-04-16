@@ -20,5 +20,5 @@ npm install
 - -f : fileName
 
 ```bash
-npm run jobs  -l United\nKingdom -f uk-jobs.csv
+npm run jobs  -p 15  -l united\state -f uk-jobs.csv
 ```
