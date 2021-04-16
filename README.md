@@ -3,6 +3,8 @@
 - puppeteer
 - Node Js
 
+`NB` please make sure you're running node version v14.1.0 or higher.
+
 ## Installation
 
 ### Step 1 – Prerequisites
